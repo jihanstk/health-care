@@ -47,6 +47,7 @@ const Contact = () => {
           <p className="lg:text-7xl text-2xl font-bold text-white ">
             Feel Free To Contact Use
           </p>
+
           <h1 className="leading-loose text-slate-300 lg:text-xl font-serif">
             Wether you're at home or in the wild we are here for you.
             <br />
